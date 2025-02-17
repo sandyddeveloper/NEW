@@ -1,0 +1,5 @@
+Email : santhoshrajk1812@gmail.com
+First Name : santhosh
+Last Name : raj k
+password : 123456   
+confirmPassword : 123456
